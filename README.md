@@ -1,56 +1,63 @@
 # Aishwarya Bramma
 
-Computer Science Educator | AI Developer | Educational Technology Builder  
+Computer Science Educator | Educational Technology Developer | Applied AI Practitioner
 
-I am a Computer Science professional with a strong focus on building
-technology-driven solutions for education. My work lies at the
-intersection of **Artificial Intelligence, software engineering, and
-pedagogy**, with particular interest in applying AI meaningfully within
-school and academic ecosystems.
+I am a Computer Science professional with experience spanning **college-level teaching,
+school education, and educational technology development**. My work focuses on
+designing and building **practical, classroom-ready software systems** that support
+teaching, learning, and academic workflows.
 
-I have experience designing and developing **educational platforms,
-AI-assisted learning tools, and academic automation systems**, with an
-emphasis on clarity, usability, and real-world classroom impact.
+I am particularly interested in the **application of Artificial Intelligence in education**,
+with emphasis on systems that assist teachers and learners through contextual,
+curriculum-aligned support rather than generic automation.
 
 ---
 
-## Areas of Interest
-- Artificial Intelligence in Education
-- Retrieval-Augmented Generation (RAG)
-- Educational Software Systems
-- Curriculum-aligned Technology Design
-- Applied AI for Language & Literature Learning
+## Professional Focus
+- Educational Technology System Design
+- Applied Artificial Intelligence in Learning Environments
+- Retrieval-Augmented Generation (RAG) for education
+- Academic and Administrative Automation
+- Browser-based tools for classroom use
 
 ---
 
 ## Technical Skills
-- **Languages:** Python, JavaScript, R  
-- **Web:** HTML, CSS, Browser-based applications  
-- **AI / ML:** NLP fundamentals, RAG-based systems, prompt engineering  
-- **Tools & Platforms:** GitHub, Google Apps Script, Google Workspace APIs  
-- **Deployment:** Static hosting, lightweight browser-first architectures  
+- **Programming Language:** Python  
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **AI & Systems:** RAG-based AI systems, prompt design, curriculum-aware AI workflows  
+- **Platforms & Tools:** GitHub, Google Apps Script, Google Workspace ecosystem  
+- **Deployment Approach:** Browser-based applications, static hosting, lightweight architectures  
 
 ---
 
-## Selected Projects
-- **Educational AI Systems** – AI-powered tools designed to support
-  concept understanding, questioning, and guided learning.
-- **Academic & Administrative Automation** – Applications that simplify
-  academic workflows and classroom processes.
-- **Web-based Learning Utilities** – Lightweight tools built for direct
-  classroom use with minimal setup.
+## Selected Work & Projects
+- **Arivoli – AI Counselor System**  
+  An AI-based counseling and guidance system designed to provide compassionate,
+  curriculum-aware responses to students using Retrieval-Augmented Generation.
 
-(Some projects are maintained as private repositories due to
-institutional or research use.)
+- **Chinmaya Gita – Educational AI Initiative**  
+  AI-assisted learning system supporting value-based education through structured,
+  age-appropriate explanations.
+
+- **Valluvam – AI for Tamil Literature**  
+  An AI-driven educational system focused on contextual understanding of classical
+  Tamil texts, particularly Thirukkural.
+
+- **Academic & Administrative Automation Tools**  
+  Software solutions developed to streamline academic workflows, classroom activities,
+  and institutional processes.
+
+(Some projects are maintained privately due to institutional, educational, or research use.)
 
 ---
 
-## Philosophy
-I believe technology should **empower teachers**, not replace them.
-My focus is on building systems that are transparent, adaptable,
-and aligned with real teaching and learning needs.
+## Approach & Philosophy
+I believe effective educational technology should **support teachers, respect pedagogy,
+and remain adaptable to classroom realities**. My work prioritizes clarity, transparency,
+and real-world usability over complexity.
 
 ---
 
-## Contact
-- GitHub: https://github.com/<your-username>
+## GitHub
+https://github.com/<your-username>
