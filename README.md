@@ -1,63 +1,65 @@
 # Aishwarya Bramma
 
-Computer Science Educator | Educational Technology Developer | Applied AI Practitioner
+**Computer Science Academic | Applied AI System Developer**
 
-I am a Computer Science professional with experience spanning **college-level teaching,
-school education, and educational technology development**. My work focuses on
-designing and building **practical, classroom-ready software systems** that support
-teaching, learning, and academic workflows.
+I am a Computer Science professional with experience spanning **undergraduate engineering education, enterprise software development, and applied Artificial Intelligence system design**. My work focuses on building **practical, domain-aware AI systems** that emphasize contextual reasoning, responsible AI usage, and real-world applicability.
 
-I am particularly interested in the **application of Artificial Intelligence in education**,
-with emphasis on systems that assist teachers and learners through contextual,
-curriculum-aligned support rather than generic automation.
+My primary interests lie in the **design and implementation of AI-driven advisory and knowledge systems**, particularly those using **Retrieval-Augmented Generation (RAG)** to ground Large Language Model outputs in structured, curated knowledge sources.
 
 ---
 
 ## Professional Focus
-- Educational Technology System Design
-- Applied Artificial Intelligence in Learning Environments
-- Retrieval-Augmented Generation (RAG) for education
-- Academic and Administrative Automation
-- Browser-based tools for classroom use
+
+- Applied Artificial Intelligence Systems  
+- Large Language Models (LLMs) and Generative AI  
+- Retrieval-Augmented Generation (RAG) Architectures  
+- Prompt Engineering and Responsible AI  
+- Domain-grounded Advisory and Knowledge Systems  
+- Lightweight, scalable system design  
 
 ---
 
 ## Technical Skills
-- **Programming Language:** Python  
+
+- **Programming Languages:** Python, Java  
 - **Web Technologies:** HTML, CSS, JavaScript  
-- **AI & Systems:** RAG-based AI systems, prompt design, curriculum-aware AI workflows  
-- **Platforms & Tools:** GitHub, Google Apps Script, Google Workspace ecosystem  
-- **Deployment Approach:** Browser-based applications, static hosting, lightweight architectures  
+- **AI & ML:**  
+  - Large Language Models (LLMs)  
+  - Retrieval-Augmented Generation (RAG)  
+  - Prompt Engineering  
+  - Context-aware AI workflows  
+- **Systems & Tools:**  
+  - Git, GitHub  
+  - API Integration  
+  - Lightweight web architectures  
+- **Deployment Approach:**  
+  - Browser-based applications  
+  - Modular, maintainable system design  
 
 ---
 
-## Selected Work & Projects
-- **Arivoli – AI Counselor System**  
-  An AI-based counseling and guidance system designed to provide compassionate,
-  curriculum-aware responses to students using Retrieval-Augmented Generation.
+## Selected Projects
 
-- **Chinmaya Gita – Educational AI Initiative**  
-  AI-assisted learning system supporting value-based education through structured,
-  age-appropriate explanations.
+### Arivoli – AI-Based Advisory and Counseling System
+An AI-driven conversational system designed to deliver **empathetic, context-aware responses** grounded in curated knowledge sources using Retrieval-Augmented Generation. The system emphasizes ethical AI principles, response sensitivity, and domain alignment rather than generic chatbot behavior.
 
-- **Valluvam – AI for Tamil Literature**  
-  An AI-driven educational system focused on contextual understanding of classical
-  Tamil texts, particularly Thirukkural.
-
-- **Academic & Administrative Automation Tools**  
-  Software solutions developed to streamline academic workflows, classroom activities,
-  and institutional processes.
-
-(Some projects are maintained privately due to institutional, educational, or research use.)
+**Key Concepts:** LLMs, RAG pipelines, prompt engineering, responsible AI.
 
 ---
 
-## Approach & Philosophy
-I believe effective educational technology should **support teachers, respect pedagogy,
-and remain adaptable to classroom realities**. My work prioritizes clarity, transparency,
-and real-world usability over complexity.
+### Mannin Marangal – AI-Based Environmental Awareness System
+An AI-supported digital system focused on intelligent dissemination of environmental knowledge. The project explores structured knowledge representation and AI-assisted interaction for social and ecological awareness.
+
+**Key Concepts:** AI integration, knowledge structuring, web-based systems.
+
+---
+
+## Design Philosophy
+
+I believe effective AI systems should be **context-aware, interpretable, and purpose-driven**. My approach prioritizes clarity of design, ethical considerations, and real-world usability over unnecessary complexity or opaque automation.
 
 ---
 
 ## GitHub
-https://github.com/<your-username>
+
+https://github.com/aishugithub
